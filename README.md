@@ -8,8 +8,7 @@ DSList é uma aplicação backend desenvolvida em Java com Spring Boot, que perm
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- Banco de Dados H2 (ou outro de sua escolha)
-- Maven
+- Banco de Dados H2 
 
 ## 📦 Funcionalidades
 
